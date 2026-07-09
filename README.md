@@ -5,10 +5,10 @@
 - **Version**: 1.0
 - **Date**: June 24, 2026
 - **Author(s)**: 
-	1. Ernesto C. Villaraza Jr.
-	2. Ronnel Tabanera
-	3. Erin Bautista-Medalla
-	4. Abdul Aziz De Borja
+- Ernesto C. Villaraza Jr.
+- Ronnel Tabanera
+- Erin Bautista-Medalla
+- Abdul Aziz De Borja
 
 ## 2. Table of Contents
 1. [Introduction](#3-introduction)
