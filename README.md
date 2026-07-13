@@ -76,7 +76,8 @@
       * Email notifications are not implemented.
 
 ## 5. Visual Mockup Reference
-- **Link or Screenshot**: ![Mockup](mockup_link.png)
+- **Link to Figma**: [Figma Design Prototype](https://www.figma.com/design/4RKGnUEo6sJYXa50vItxLp/MCP---Side-Project?node-id=16-323&m=dev&t=f45ozg8XgOwh9ioF-1)
+- **Link to ERD**: [Database Diagram](https://dbdiagram.io/d/MINI-PROJECT-ZUITT-6a4202aab3ebc94a7db02c64)
 
 ## 6. Features
 - **User Registration and Login**: Users can create accounts and log in.
