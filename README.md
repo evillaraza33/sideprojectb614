@@ -603,6 +603,7 @@ Example:
     * Flight status tracking
     * Loyalty rewards system
     * Multi-airline integration
+    * Seat class selection
 
 - **Success Criteria**:
 
